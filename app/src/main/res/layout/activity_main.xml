@@ -48,7 +48,8 @@
             android:layout_margin="8dp"
             android:orientation="vertical"
             android:background="@drawable/rounded_white_shadow"
-            android:gravity="center">
+            android:gravity="center"
+            android:onClick="openTinhDienTich">
 
             <ImageView
                 android:layout_width="60dp"
