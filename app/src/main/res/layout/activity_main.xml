@@ -41,7 +41,7 @@
 
         <!-- Nút Tính Diện Tích -->
         <LinearLayout
-            android:id="@+id/btn_cpp"
+            android:id="@+id/btn_TinhDT"
             android:layout_width="0dp"
             android:layout_height="150dp"
             android:layout_columnWeight="1"
@@ -67,7 +67,7 @@
 
         <!-- Nút Vật Liệu -->
         <LinearLayout
-            android:id="@+id/btn_java"
+            android:id="@+id/btn_VatLieu"
             android:layout_width="0dp"
             android:layout_height="150dp"
             android:layout_columnWeight="1"
@@ -93,7 +93,7 @@
 
         <!-- Nút Công Trình -->
         <LinearLayout
-            android:id="@+id/btn_python"
+            android:id="@+id/btn_CongTrinh"
             android:layout_width="0dp"
             android:layout_height="150dp"
             android:layout_columnWeight="1"
